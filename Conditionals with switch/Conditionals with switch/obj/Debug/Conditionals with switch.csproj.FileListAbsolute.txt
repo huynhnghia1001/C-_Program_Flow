@@ -1,0 +1,8 @@
+E:\C#\5_4_2023\C# Program Flow\Conditionals with switch\Conditionals with switch\bin\Debug\Conditionals with switch.exe.config
+E:\C#\5_4_2023\C# Program Flow\Conditionals with switch\Conditionals with switch\bin\Debug\Conditionals with switch.exe
+E:\C#\5_4_2023\C# Program Flow\Conditionals with switch\Conditionals with switch\bin\Debug\Conditionals with switch.pdb
+E:\C#\5_4_2023\C# Program Flow\Conditionals with switch\Conditionals with switch\obj\Debug\Conditionals with switch.csproj.AssemblyReference.cache
+E:\C#\5_4_2023\C# Program Flow\Conditionals with switch\Conditionals with switch\obj\Debug\Conditionals with switch.csproj.SuggestedBindingRedirects.cache
+E:\C#\5_4_2023\C# Program Flow\Conditionals with switch\Conditionals with switch\obj\Debug\Conditionals with switch.csproj.CoreCompileInputs.cache
+E:\C#\5_4_2023\C# Program Flow\Conditionals with switch\Conditionals with switch\obj\Debug\Conditionals with switch.exe
+E:\C#\5_4_2023\C# Program Flow\Conditionals with switch\Conditionals with switch\obj\Debug\Conditionals with switch.pdb

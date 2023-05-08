@@ -1,0 +1,8 @@
+E:\C#\5_4_2023\C# Program Flow\Exceptions\Exceptions\bin\Debug\Exceptions.exe.config
+E:\C#\5_4_2023\C# Program Flow\Exceptions\Exceptions\bin\Debug\Exceptions.exe
+E:\C#\5_4_2023\C# Program Flow\Exceptions\Exceptions\bin\Debug\Exceptions.pdb
+E:\C#\5_4_2023\C# Program Flow\Exceptions\Exceptions\obj\Debug\Exceptions.csproj.AssemblyReference.cache
+E:\C#\5_4_2023\C# Program Flow\Exceptions\Exceptions\obj\Debug\Exceptions.csproj.SuggestedBindingRedirects.cache
+E:\C#\5_4_2023\C# Program Flow\Exceptions\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+E:\C#\5_4_2023\C# Program Flow\Exceptions\Exceptions\obj\Debug\Exceptions.exe
+E:\C#\5_4_2023\C# Program Flow\Exceptions\Exceptions\obj\Debug\Exceptions.pdb
